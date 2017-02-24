@@ -14,16 +14,16 @@ I hope it turns into a useful library for everyone..
  - Simple Radio Button Group
 
 
-## Features of Simple View Pager
+###Features of Simple View Pager
 
- - Any ViewGroup based View can be use as Container
- - Swipe Right and Left to swtich pages
- - Programmatically switch pages
- - Continuous Pages
- - Auto Created PageDots
- - Customize style For Active PageDot and Deactive PageDosts
- - Customize PageDots location
- - For more information **go to** Simple View Pager [**Documents**](https://github.com/savmm/AndroidSimpleViews/blob/master/Documents/SimpleViewPager.md).
+  - Any ViewGroup based View can be use as Container
+  - Swipe Right and Left to swtich pages
+  - Programmatically switch pages
+  - Continuous Pages
+  - Auto Created PageDots
+  - Customize style For Active PageDot and Deactive PageDosts
+  - Customize PageDots location
+  - For more information **go to** Simple View Pager [**Documents**](https://github.com/savmm/AndroidSimpleViews/blob/master/Documents/SimpleViewPager.md).
 
 
 ##Demo
