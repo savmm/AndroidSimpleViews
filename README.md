@@ -10,7 +10,7 @@ I hope it turns into a useful library for everyone..
 
 ##Simple and Easy to use Views for Android
 
- - Simple View Pager For more information **go to** [**Simple View Pager Documents**](https://github.com/savmm/AndroidSimpleViews/blob/master/Documents/SimpleViewPager.md).
+ - Simple View Pager for more information **go to** [**Simple View Pager Documents**](https://github.com/savmm/AndroidSimpleViews/blob/master/Documents/SimpleViewPager.md).
  - Simple Radio Button Group
 
 ##Demo
