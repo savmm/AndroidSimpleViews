@@ -25,7 +25,7 @@ I hope it turns into a useful library for everyone..
  - Customize PageDots location
  
 
- ### For more information **go to** Simple View Pager Documents [**go to**](https://github.com/savmm/AndroidSimpleViews/blob/master/Documents/SimpleViewPager.md).
+ ### For more information **go to** Simple View Pager [**Documents**] (https://github.com/savmm/AndroidSimpleViews/blob/master/Documents/SimpleViewPager.md).
 
 
 ##Demo
