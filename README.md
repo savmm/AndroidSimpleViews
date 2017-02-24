@@ -3,7 +3,7 @@
 ##Simple and Easy to use Views for Android
 
  - Simple View Pager
- - Simple Radoi Button Group
+ - Simple Radio Button Group
 
 
 ## Features of Simple View Pager
