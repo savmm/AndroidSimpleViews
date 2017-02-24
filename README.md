@@ -36,3 +36,18 @@ I hope it turns into a useful library for everyone..
      compile 'com.android.support:appcompat-v7:25.1.1'
      } 
 ```
+###Maven
+```groovy
+ <dependency>
+   <groupId>com.customview.ui</groupId>
+   <artifactId>simpleviews</artifactId>
+   <version>0.8.1</version>
+   <type>pom</type>
+ </dependency>
+ ```
+ ###Ivy
+ ```groovy
+ <dependency org='com.customview.ui' name='simpleviews' rev='0.8.1'>
+  <artifact name='simpleviews' ext='pom' ></artifact>
+</dependency>
+ ```
