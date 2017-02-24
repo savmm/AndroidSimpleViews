@@ -27,3 +27,9 @@ I hope it turns into a useful library for everyone..
 
  ### For more information Simple View Pager Documents 
 
+
+#Install / Import
+
+ dependencies {
+     compile 'com.android.support:appcompat-v7:25.1.1'
+     }
