@@ -34,5 +34,5 @@ I hope it turns into a useful library for everyone..
  ```groovy
  dependencies {
      compile 'com.android.support:appcompat-v7:25.1.1'
-     }
- ```groovy
+     } 
+```
