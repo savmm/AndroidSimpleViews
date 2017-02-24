@@ -1,0 +1,17 @@
+<resources>
+    <declare-styleable name="SimpleViewPager">
+        <attr name="dotColor" format="reference"></attr>
+        <attr name="dotColorActive" format="reference"></attr>
+        <attr name="swipeAnimationDuration" format="integer"></attr>
+        <attr name="swipeSensitivity" format="dimension"></attr>
+        <attr name="pageDotsAlignment" format="enum" >
+            <enum name="TOP" value="0"></enum>
+            <enum name="BOTTOM" value="1"></enum>
+        </attr>
+        <attr name="pageDotsMargin" format="dimension"></attr>
+        <attr name="pageDotsRadius" format="dimension"></attr>
+        <attr name="activePageDotsRadius" format="dimension"></attr>
+        <attr name="dotsSeperate" format="dimension"></attr>
+        <attr name="showPageDots" format="boolean"></attr>
+    </declare-styleable>
+</resources>
