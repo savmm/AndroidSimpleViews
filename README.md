@@ -16,5 +16,6 @@
  - Customize style For Active PageDot and Deactive PageDosts
  - Customize PageDots location
  
- ###Simple View Pager Documents
+
+ ### For more information Simple View Pager Documents
 
