@@ -25,5 +25,5 @@ I hope it turns into a useful library for everyone..
  - Customize PageDots location
  
 
- ### For more information Simple View Pager Documents
+ ### For more information Simple View Pager Documents 
 
