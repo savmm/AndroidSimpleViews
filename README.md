@@ -1,4 +1,12 @@
+
 # Android Simple Views
+
+Simple Views is an UI Library for simple and easy to use views Android views,
+compatible with API 16+(Android 4.1) Apache License 2.0.
+
+The main purpose of this library is to present the basic components needed in many projects by adding new features in a way that is simpler and faster to use, and to create non-built-in views that used in most of the android applications.
+
+I hope it turns into a useful library for everyone..
 
 ##Simple and Easy to use Views for Android
 
