@@ -45,7 +45,8 @@ I hope it turns into a useful library for everyone..
    <type>pom</type>
  </dependency>
  ```
- ###Ivy
+ 
+###Ivy
  ```groovy
  <dependency org='com.customview.ui' name='simpleviews' rev='0.8.1'>
   <artifact name='simpleviews' ext='pom' ></artifact>
