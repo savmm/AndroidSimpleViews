@@ -15,6 +15,7 @@ Simple View Pager Allows to scroll through the container on the same layout by s
 ##Usages
 
 ###Methods and Settings
+
 ```groovy
       mSimpleViewPager.setDotsSeparate(10 /*in px*/);
       mSimpleViewPager.setPageDotsAlignment(PageDotsAlignment.BOTTOM);
@@ -25,7 +26,8 @@ Simple View Pager Allows to scroll through the container on the same layout by s
       mSimpleViewPager.setActiveDotColor(getResources().getColor(android.R.color.holo_orange_dark));
  ```  
         
-  ###Events  
+### Events
+  
   ```groovy
        mSimpleViewPager.setOnPageChangingListener(new OnPageChangingListener() {
             @Override
