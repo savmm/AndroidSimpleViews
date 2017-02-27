@@ -45,7 +45,7 @@ Simple View Pager Allows to scroll through the container on the same layout by s
         });
  ```  
  
- ### Add a container programmatically
+### Add a container programmatically
    ```groovy
         RelativeLayout relativeLayout = new RelativeLayout(this);
         RelativeLayout.LayoutParams layoutParams = new RelativeLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT,      ViewGroup.LayoutParams.MATCH_PARENT);
