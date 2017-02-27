@@ -2,7 +2,7 @@
 
 Simple View Pager Allows to scroll through the container on the same layout by sliding the screen
 
-###Features of Simple View Pager
+##Features of Simple View Pager
 
   - Any ViewGroup based View can be use as Container
   - Swipe Right and Left to swtich pages
@@ -12,7 +12,7 @@ Simple View Pager Allows to scroll through the container on the same layout by s
   - Customize style For Active PageDot and Deactive PageDosts
   - Customize PageDots location
 
-#Usages
+##Usages
 
 ###Methods and Settings
 ```groovy
@@ -50,7 +50,7 @@ Simple View Pager Allows to scroll through the container on the same layout by s
         relativeLayout.setLayoutParams(layoutParams);
         relativeLayout.setBackgroundColor(Color.YELLOW);
         mSimpleViewPager.addContainer(relativeLayout);
-         ```  
+```  
          
 ### Programmatically Next and Previous
  ```groovy
