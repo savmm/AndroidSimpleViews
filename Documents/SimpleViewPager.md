@@ -11,3 +11,17 @@ Simple View Pager Allows to scroll through the container on the same layout by s
   - Auto Created PageDots
   - Customize style For Active PageDot and Deactive PageDosts
   - Customize PageDots location
+
+#Usages
+
+##Methods and Settings
+```groovy
+      mSimpleViewPager.setDotsSeparate(10 /*in px*/);
+      mSimpleViewPager.setPageDotsAlignment(PageDotsAlignment.BOTTOM);
+      mSimpleViewPager.setShowPageDots(true);
+      mSimpleViewPager.setDotRadius(14   /*in px*/);
+      mSimpleViewPager.setActiveDotRadius(18   /*in px*/);
+      mSimpleViewPager.setDotColor( getResources().getColor( android.R.color.holo_purple));
+      mSimpleViewPager.setActiveDotColor(getResources().getColor(android.R.color.holo_orange_dark));
+ ```  
+        
