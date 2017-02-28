@@ -21,7 +21,7 @@ I hope it turns into a useful library for everyone..
 ###Android Studio/Gradle
  ```groovy
  dependencies {
-     compile 'com.android.support:appcompat-v7:25.1.1'
+     compile 'com.customview.ui:simpleviews:0.8.1'
      } 
 ```
 ###Maven
