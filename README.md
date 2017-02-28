@@ -14,7 +14,7 @@ I hope it turns into a useful library for everyone..
  - Simple Radio Button Group
 
 ##Demo
- - The **demo app** is also ready for download on [**Google Play**]
+ - The **demo app** is also ready for download on [**Google Play**](https://play.google.com/store/apps/details?id=com.customview.simpleviewpager.sample)
 
 #Install / Import
 
