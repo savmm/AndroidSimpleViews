@@ -21,7 +21,7 @@ I hope it turns into a useful library for everyone..
 ###Android Studio/Gradle
  ```groovy
  dependencies {
-     compile 'com.customview.ui:simpleviews:0.8.1'
+     compile 'com.customview.ui:simpleviews:0.8.27'
      } 
 ```
 ###Maven
@@ -29,14 +29,14 @@ I hope it turns into a useful library for everyone..
  <dependency>
    <groupId>com.customview.ui</groupId>
    <artifactId>simpleviews</artifactId>
-   <version>0.8.1</version>
+   <version>0.8.27</version>
    <type>pom</type>
  </dependency>
  ```
  
 ###Ivy
  ```groovy
- <dependency org='com.customview.ui' name='simpleviews' rev='0.8.1'>
+ <dependency org='com.customview.ui' name='simpleviews' rev='0.8.27'>
   <artifact name='simpleviews' ext='pom' ></artifact>
 </dependency>
  ```
